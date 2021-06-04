@@ -1,0 +1,5 @@
+This classs is added in Java 7 which help to do file operation in java platform.
+This is alternative to new File("file path"). 
+Files path having lot many supportive static methods help to do file operation.
+
+Thanks to java 7.
